@@ -1,0 +1,37 @@
+todo:
+
+record 7 videos, perfect, one flaw at a time, two at a time, three at a time
+
+
+metrics.py
+
+right, left hip shoulder angles -> same dir = side view otherwise front view
+primary : side view (front view if time permits)
+states: standing
+
+rules.py
+
+judgement: based on angles
+type: 
+○ Maintain a relatively vertical back angle.
+○ Knees should not significantly extend past the plane of the toes.
+○ Hips must descend below a specified threshold.
+
+feedback
+○ “Straighten your back.”
+○ “Lower your hips further.”
+○ “Maintain your knees behind your toes.”
+
+feedback.py
+
+gradient borders: black, no keypoints\bad angles
+                     red: incorrect posture, suggest improvement
+                    green: correct posture
+ 
+ merge rules.py with feedback???
+ Toes or ankles? (toes mentioned, but ankles more stable)
+
+
+ log hours: 
+ Wed: 11:00pm - 1:30am+
+ Thurs: 8:30pm - 
