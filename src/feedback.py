@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import config
 
-def draw_border(frame, color='black', strength=0.6, thickness=20):
+def draw_border(frame, color='black', strength=0.6, thickness=5):
     h, w, _ = frame.shape
     thickness = int(thickness*min(h,w)/100)
     # color map (BGR)
