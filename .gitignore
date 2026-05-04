@@ -3,3 +3,4 @@ src/__pycache__/
 sample_run.mp4
 samples/test1.mp4
 samples/test1_out.mp4
+src/mp4_to_gif.py
