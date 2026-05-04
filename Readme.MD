@@ -1,12 +1,11 @@
 ## Sample Outputs
 
-### test3_out.mp4
-<video src="https://raw.githubusercontent.com/daksh-chauhan/Pose_Detection/main/samples/test3_out.mp4" controls width="700"></video>
+![test3](samples/test3.gif)
+![test4](samples/test4.gif)
 
-### test4_out.mp4
-<video src="https://raw.githubusercontent.com/daksh-chauhan/Pose_Detection/main/samples/test4_out.mp4" controls width="700"></video>
-
----
+Full videos:
+- [test3_out.mp4](https://github.com/daksh-chauhan/Pose_Detection/blob/main/samples/test3_out.mp4)
+- [test4_out.mp4](https://github.com/daksh-chauhan/Pose_Detection/blob/main/samples/test4_out.mp4)
 
 
 ## Notes
