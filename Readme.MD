@@ -1,3 +1,14 @@
+## Sample Outputs
+
+### test3_out.mp4
+<video src="https://raw.githubusercontent.com/daksh-chauhan/Pose_Detection/main/samples/test3_out.mp4" controls width="700"></video>
+
+### test4_out.mp4
+<video src="https://raw.githubusercontent.com/daksh-chauhan/Pose_Detection/main/samples/test4_out.mp4" controls width="700"></video>
+
+---
+
+
 ## Notes
 
 * This implementation is designed for **side-profile squat analysis**.
